@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node server.js --watch"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0"
+  }
+}
